@@ -1,0 +1,10 @@
+div
+{
+    width:100%;
+    clear:both;
+    float:left;
+    margin-top:30px;
+    min-width:995px;
+    background-color:white;
+    text-align:left;
+}

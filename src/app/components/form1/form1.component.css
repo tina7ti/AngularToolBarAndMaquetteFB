@@ -1,0 +1,36 @@
+form
+{
+ margin-top:15px;
+ float:right;
+}
+form li
+{
+ font-size:13px;
+ margin-left:15px;
+ list-style-type:none;
+ float:left;
+ text-align:left;
+ color:white;
+}
+form li a
+{
+ color:#A9BCF5;
+ text-decoration:none;
+}
+input[type="text"], input[type="password"]
+{
+ margin-top:3px;
+ margin-bottom:3px;
+ width:150px;
+ border:1px solid #08298A;
+ height:25px;
+ padding-left:3px;
+}
+input[type="submit"]
+{
+ height:25px;
+ margin-top:20px;
+ background-color:#084B8A;
+ color:white;
+ border:1px solid #08298A;
+}

@@ -1,0 +1,20 @@
+button
+{
+    width: 120px;
+    height: 30px;
+    padding: 0.5%;
+    align-content: center;
+    display: flex;
+    flex-wrap: wrap;   
+}
+img {
+    width: 12%;
+    height: 70%;
+    margin: 5% 5%;
+}
+span
+{
+    margin: 7% 7%; 
+}
+
+

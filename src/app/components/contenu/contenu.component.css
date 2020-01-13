@@ -1,0 +1,8 @@
+div
+{
+    margin:0 auto;
+    padding:0px;
+    text-align:center;
+    width:980px;
+    display: flex;
+}

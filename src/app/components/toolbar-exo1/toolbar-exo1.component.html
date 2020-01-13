@@ -1,0 +1,5 @@
+<ul>
+    <li *ngFor="let i of nbrButton"><app-button-exo1 [name]="i.name" [icon]="i.icon" (buttonChange)="change($event)"></app-button-exo1></li>
+</ul>
+
+<h3 *ngIf="clicked" >click sur le boutton : <span>{{buttonClick}}</span> </h3>
